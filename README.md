@@ -6,13 +6,17 @@ The school district analysis looks at students' grades across various schools fo
 The following changes in the analysis were observed:
 
 * District summary 
-The overall percentages are very close to original. The revised analysis has the same number of total students since there data was kept with the original and only their scores were replaced. 
+The overall percentages are very close to original. The revised analysis has the same number of total students since there data was kept with the original and only their scores were replaced. These can be seen in the following two images:
+https://github.com/madihajaved/School_District_Analysis/blob/main/Resources/disctrict_summary_original.png
+https://github.com/madihajaved/School_District_Analysis/blob/main/Resources/disctrict_summary_revised.png
 
 * School summary 
 The summary scores for Thomas High School have changed. While the total number of students is 1635, only scores of 1174 students is being counted given that the scores of ninth graders were replaced. This has changed the passing percentages as well with the revised percentages of maths, reading and overall being 93%, 97% and 90%. 
 
 * Relative performance of Thomas High School 
-In terms of ranking, Thomas High School is still second in place with the second highest overall percentage. However, the stats have changed slightly from a previous 90.95% overall passing score to 90.63%. 
+In terms of ranking, Thomas High School is still second in place with the second highest overall percentage. However, the stats have changed slightly from a previous 90.95% overall passing score to 90.63%. The unformatted numbers can be seen in this image:
+
+https://github.com/madihajaved/School_District_Analysis/blob/main/Resources/top%20five%20schools%20-%20revised.png
 
 * Impact of replacing ninth-grades scores
   * Math and reading scores by grade: Except for Thomas High School nine-graders whose scores now show NaN, everything else is same.    
